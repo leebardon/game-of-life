@@ -49,3 +49,5 @@ Although this is a simple implementation, the Game of Life has attracted interes
 due to the ways in which the cells can evolve. For example, life could be  
 arguably considered as an example of emergence and self-organisation arising from the 
 implementation of a few simple rules. 
+
+![Screenshot from game](Screenshot 2020-01-26 at 14.51.44.png)
