@@ -1,5 +1,3 @@
-# Game-of-Life
-
 # INTRODUCTION 
 
 This is my implementation of John Conway's Game of Life, based on the 
@@ -40,6 +38,7 @@ to the following rules:
 3. Any live cell with more than three live neighbours dies, as if by overpopulation.
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
+
 # THINGS TO NOTICE
 
 Are there any objects that are consistently alive, but motionless?
@@ -50,4 +49,4 @@ due to the ways in which the cells can evolve. For example, life could be
 arguably considered as an example of emergence and self-organisation arising from the 
 implementation of a few simple rules. 
 
-![Screenshot from game](Screenshot 2020-01-26 at 14.51.44.png)
+![](Images/screenshot)
